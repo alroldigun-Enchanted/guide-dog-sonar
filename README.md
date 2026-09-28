@@ -20,6 +20,7 @@
 
 ## Статус
 Концепция. Впервые публично описана в феврале 
+
 #AssistiveTechnology
 #GuideDogs
 #Accessibility
