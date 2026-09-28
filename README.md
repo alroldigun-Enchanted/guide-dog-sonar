@@ -25,4 +25,3 @@
 #GuideDogs
 #Accessibility
 #BlindNavigation
-@AppleSupport
